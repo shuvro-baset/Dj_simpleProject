@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../python_programming/fiver_task" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../csv_to_database" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -77,6 +77,8 @@
       <workItem from="1617832177651" duration="1629000" />
       <workItem from="1617909700807" duration="7000" />
       <workItem from="1618158641770" duration="179000" />
+      <workItem from="1618254249840" duration="44000" />
+      <workItem from="1618336979877" duration="633000" />
     </task>
     <servers />
   </component>
