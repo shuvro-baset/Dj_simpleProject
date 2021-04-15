@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block title %}
+    home
+{% endblock title %}
+
+{% block content %}
+
+{% if request.user.is_authenticated %}
+{{ request.user }}
+{% else %}
+<a href="{% url 'signup-view' %}">
+    <button class="btn btn-primary">create an account</button>
+</a>
+{% endif %}
+
+{% endblock content %}
