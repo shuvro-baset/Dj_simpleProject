@@ -1,10 +1,9 @@
-./scripts
-./Lib
-./Inlcude
-./idea
+
 
 /scripts
 /Lib
 /Inlcude
 /idea
-.pyvenv.cfg
+.idea
+.gitignore
+pyvenv.cfg
