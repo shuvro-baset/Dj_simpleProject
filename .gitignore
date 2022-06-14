@@ -1,0 +1,10 @@
+./scripts
+./Lib
+./Inlcude
+./idea
+
+/scripts
+/Lib
+/Inlcude
+/idea
+.pyvenv.cfg
